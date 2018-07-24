@@ -145,6 +145,10 @@ button {
         width: auto;
     }
 
+    #bio-photo {
+        width: 50%;
+    }
+
     #hangman, #rpg-game, #rutgers, #r-p-s, #trivia-game {
         width: 44%;
     }
