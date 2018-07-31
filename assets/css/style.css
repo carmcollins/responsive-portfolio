@@ -88,7 +88,7 @@ img {
     top: -50px;
 }
 
-#hangman, #rpg-game, #rutgers, #r-p-s, #trivia-game {
+.portfolio-section {
     float: left;
     margin: 20px;
 }
@@ -149,7 +149,7 @@ button {
         width: 50%;
     }
 
-    #hangman, #rpg-game, #rutgers, #r-p-s, #trivia-game {
+    .portfolio-section {
         width: 44%;
     }
 
@@ -190,7 +190,7 @@ button {
         width: 50%;
     }
 
-    #hangman, #rpg-game, #rutgers, #r-p-s, #trivia-game {
+    .portfolio-section {
         width: 44%;
     }
 
@@ -237,7 +237,7 @@ button {
         width: 100%;
     }
 
-    #hangman, #rpg-game, #rutgers, #r-p-s, #trivia-game {
+    .portfolio-section {
         width: 90%;
     }
 
