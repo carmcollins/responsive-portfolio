@@ -62,7 +62,7 @@ p {
     line-height: 1.5em;
 }
 
-a {
+.nav-a {
     text-decoration: none;
     color: #747474;
     padding: 20px;
@@ -90,7 +90,7 @@ img {
 
 .portfolio-section {
     float: left;
-    margin: 20px;
+    margin: 15px;
 }
 
 form {
